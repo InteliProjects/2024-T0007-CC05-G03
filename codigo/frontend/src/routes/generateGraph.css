@@ -1,0 +1,22 @@
+.containerGenerateMap{
+    padding: 15px;
+    display: flex;
+    justify-content:space-evenly;
+    height: 100vh;
+}
+
+.informationContainerGenerated{
+    width:17%;
+    margin: 0 auto;
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.graphContainerGenerated{
+    width: 77%;
+    margin: 0 auto;
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 10px;
+}

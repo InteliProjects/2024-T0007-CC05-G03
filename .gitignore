@@ -1,0 +1,9 @@
+.vscode
+target
+*.docx
+*.pdf
+.idea
+node_modules
+.idea
+.package-lock.json
+```
